@@ -1,0 +1,61 @@
+Total unique pages: 1296
+Longest page in words: 1386
+    # note when running I did see pages with much larger word counts, but I did not crawl them as I viewed them to be too large
+    # At the tip of my head, I remember seeing a page at around 32k words and one at around 120k as well.
+Most Common 50 words:
+    # yikes, I don't believe I saved them right so they did not properly print or they got lost in the terminal ;(
+    # however, while testing, I did notice the words computer, phd, informatics, software, data, student, 2020, 2022, 2023 appear frequently
+Subdomains of ics.uci.edu:
+   accessibility.ics.uci.edu: 5
+   archive.ics.uci.edu: 2
+   cert.ics.uci.edu: 9
+   chenli.ics.uci.edu: 11
+   cloudberry.ics.uci.edu: 1
+   cml.ics.uci.edu: 2
+   courselisting.ics.uci.edu: 5
+   code.ics.uci.edu: 9
+   computableplant.ics.uci.edu: 3
+   create.ics.uci.edu: 4
+   cml.ics.uci.edu: 31
+   dgillen.ics.uci.edu: 7
+   ds4all.ics.uci.edu: 2
+   duttgroup.ics.uci.edu: 5
+   economics.uci.edu: 1
+   emj.ics.uci.edu: 27
+   evoke.ics.uci.edu: 1
+   flamingo.ics.uci.edu: 1
+   futurehealth.ics.uci.edu: 22
+   grape.ics.uci.edu: 56
+   hack.ics.uci.edu: 7
+   hai.ics.uci.edu: 1
+   hpi.ics.uci.edu: 2
+   iasl.ics.uci.edu: 14
+   i-sensorium.ics.uci.edu: 1
+   ics.uci.edu: 991
+   industryshowcase.ics.uci.edu: 3
+   intranet.ics.uci.edu: 1
+   isg.ics.uci.edu: 77
+   ipubmed.ics.uci.edu: 8
+   jujube.ics.uci.edu: 1
+   mds.ics.uci.edu: 1
+   mhcid.ics.uci.edu: 1
+   mondego.ics.uci.edu: 4
+   mse.ics.uci.edu: 9
+   mswe.ics.uci.edu: 5
+   nalini.ics.uci.edu: 11
+   ngs.ics.uci.edu: 31
+   redmiles.ics.uci.edu: 1
+   oai.ics.uci.edu: 1
+   sherlock.ics.uci.edu: 1
+   sli.ics.uci.edu: 7
+   sourcerer.ics.uci.edu: 2
+   statconsulting.ics.uci.edu: 25
+   tad.ics.uci.edu: 1
+   tastier.ics.uci.edu: 1
+   tippersweb.ics.uci.edu: 1
+   transformativeplay.ics.uci.edu: 43
+   vision.ics.uci.edu: 1
+   unite.ics.uci.edu: 2
+   wearablegames.ics.uci.edu: 1
+   wics.ics.uci.edu: 83
+   wiki.ics.uci.edu: 1
