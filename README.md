@@ -3,6 +3,12 @@ ABOUT
 This is the base implementation of a full crawler that uses a spacetime
 cache server to receive requests.
 
+TEAM MEMBERS
+-------------------------
+- Tony Yin @Boracle-02
+  - NETID: tonyy5
+  - Student ID: 40391409
+
 CONFIGURATION
 -------------------------
 
